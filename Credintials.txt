@@ -1,0 +1,19 @@
+for user:  null
+
+
+for employee management:
+
+	for admin: admin1@admin.com
+		   : 1234
+
+	for emp: new@new.com
+		 : new
+
+
+for flight management:
+	for admin:admin
+		   : admin123
+		    
+	
+	for emp: new@new.com
+		 : New@1234
